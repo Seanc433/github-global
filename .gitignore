@@ -3,3 +3,4 @@ node_modules/
 *.pyc
 *.log
 dist/
+.pytest_cache/
